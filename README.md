@@ -137,7 +137,7 @@ void loop() {
 
 
 ```
-En este apartado las interrupciones en ver de ser por GPIO seran por timer
+En este apartado las interrupciones en ver de ser por GPIO seran por timer, y estas se generaran cada 1000000 microsegundos que es igual a cada 1 segundo seguidad del mensaje por pantalla.
 
 
 
@@ -235,3 +235,11 @@ void loop() {
 
 
 ```
+
+
+
+
+
+
+
+
