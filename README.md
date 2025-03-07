@@ -237,6 +237,14 @@ void loop() {
 ```
 
 
+Lo que nos pide en este apartado extra es que con un nuevo codigo podamos alterar la frequencia de parpadeo de un led utilizando 2 pulsadores
+
+
+
+
+
+
+
 
 
 
